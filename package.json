@@ -1,0 +1,20 @@
+{
+  "name": "2019_maquette_responsive",
+  "version": "1.0.0",
+  "description": "Réalisation d'une maquette en mobile First",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/simplon-co/2019_maquette_responsive.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/simplon-co/2019_maquette_responsive/issues"
+  },
+  "homepage": "https://github.com/simplon-co/2019_maquette_responsive#readme"
+}
